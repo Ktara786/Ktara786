@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushbutara Shekh</h1>
+<h1 align="center">Hi 👋, I'm Khushbutara Shaikh</h1>
 <h3 align="center">
 MERN-Stack Developer | Shopify App Developer
 </h3>
@@ -30,9 +30,6 @@ MERN-Stack Developer | Shopify App Developer
 </a>
 <a href="https://www.leetcode.com/khushbutara" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/@khushbushekh2003" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
 </a>
 </p>
 
